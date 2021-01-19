@@ -5,4 +5,6 @@ Resolusi 2021
 - Menguasai pemrograman Android Studio
 - Hatam Quran Tiap Bulan
 - Belajar Angular
-- Belajar Goolang
+- Belajar Mengenai Laravel
+- Belajar Vue
+- Belajar React
