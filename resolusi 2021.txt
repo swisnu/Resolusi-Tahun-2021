@@ -6,3 +6,4 @@ Resolusi 2021
 - Hatam Quran Tiap Bulan
 - Belajar Mengenai Laravel
 - Belajar Vue
+- Belajar React
